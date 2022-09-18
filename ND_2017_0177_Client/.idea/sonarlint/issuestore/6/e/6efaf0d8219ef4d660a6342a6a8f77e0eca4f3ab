@@ -1,0 +1,45 @@
+
+E
+java:S1604P"(Make this anonymous inner class a lambda(è©Šà8•ö·¿²0
+E
+java:S1604W"(Make this anonymous inner class a lambda(à…¶©8•ö·¿²0
+E
+java:S1604^"(Make this anonymous inner class a lambda(Œ¬Åµ8•ö·¿²0
+J
+java:S1604d"(Make this anonymous inner class a lambda(ˆÚ‚’ıÿÿÿÿ8–ö·¿²0
+J
+java:S1604o"(Make this anonymous inner class a lambda(ˆ•…Äûÿÿÿÿ8–ö·¿²0
+E
+java:S1604y"(Make this anonymous inner class a lambda(ßÀû¦8–ö·¿²0
+v
+java:S1450§"XRemove the "btnCancel" field and declare it as a local variable in the relevant methods.(ñøÉ»8ƒ¶Å¾²0
+{
+java:S1450¨"XRemove the "btnDelete" field and declare it as a local variable in the relevant methods.(«–œ‡ùÿÿÿÿ8„¶Å¾²0
+~
+java:S1450«"[Remove the "buttonGroup1" field and declare it as a local variable in the relevant methods.(ïÔúØÿÿÿÿÿ8„¶Å¾²0
+y
+java:S1450¬"VRemove the "jLabel1" field and declare it as a local variable in the relevant methods.(°ãÉ¸ÿÿÿÿÿ8„¶Å¾²0
+y
+java:S1450­"VRemove the "jLabel2" field and declare it as a local variable in the relevant methods.(™úòˆüÿÿÿÿ8„¶Å¾²0
+y
+java:S1450®"VRemove the "jLabel3" field and declare it as a local variable in the relevant methods.(Îä€øÿÿÿÿ8…¶Å¾²0
+t
+java:S1450¯"VRemove the "jLabel4" field and declare it as a local variable in the relevant methods.(«¢•ã8…¶Å¾²0
+t
+java:S1450°"VRemove the "jLabel5" field and declare it as a local variable in the relevant methods.(ó Ù®8…¶Å¾²0
+G
+java:S1172Ò"*Remove this unused method parameter "evt".(ÛŸÚ[8¶Å¾²0
+U
+java:S1135Ó"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ8¶Å¾²0
+H
+java:S1172Ö"*Remove this unused method parameter "evt".(´ÇŸ£8¶Å¾²0
+M
+java:S1172û"*Remove this unused method parameter "evt".(ÚãÜşÿÿÿÿ8ëö·¿²0
+G
+java:S1172…"*Remove this unused method parameter "evt".(øß‡^8íö·¿²0
+H
+java:S1172›"*Remove this unused method parameter "evt".(Âà’¸8ïö·¿²0
+U
+java:S1135œ"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ8ïö·¿²0
+M
+java:S1172Ÿ"*Remove this unused method parameter "evt".(Ï±”êûÿÿÿÿ8ïö·¿²0

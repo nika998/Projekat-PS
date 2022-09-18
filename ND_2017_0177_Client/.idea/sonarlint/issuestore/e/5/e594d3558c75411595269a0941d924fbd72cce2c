@@ -1,0 +1,41 @@
+
+J
+java:S1604R"(Make this anonymous inner class a lambda(ÿ†æşÿÿÿÿ8¢÷·¿²0
+E
+java:S1604Y"(Make this anonymous inner class a lambda(à…¶©8£÷·¿²0
+E
+java:S1604`"(Make this anonymous inner class a lambda(Œ¬Åµ8£÷·¿²0
+E
+java:S1604g"(Make this anonymous inner class a lambda(ßÀû¦8£÷·¿²0
+d
+java:S1226³"FIntroduce a new variable instead of reusing the parameter "startTime".(íÁ†8£¤Œ¾²0
+b
+java:S1226º"DIntroduce a new variable instead of reusing the parameter "endTime".(©øıõ8£¤Œ¾²0
+Z
+java:S2589¹"7Remove this expression which always evaluates to "true"(ÜÚ÷‹üÿÿÿÿ8†ø·¿²0
+v
+java:S1450€"XRemove the "btnCancel" field and declare it as a local variable in the relevant methods.(ñøÉ»8Œø·¿²0
+{
+java:S1450"XRemove the "btnDelete" field and declare it as a local variable in the relevant methods.(«–œ‡ùÿÿÿÿ8ø·¿²0
+y
+java:S1450…"VRemove the "jLabel1" field and declare it as a local variable in the relevant methods.(°ãÉ¸ÿÿÿÿÿ8ø·¿²0
+y
+java:S1450†"VRemove the "jLabel2" field and declare it as a local variable in the relevant methods.(™úòˆüÿÿÿÿ8ø·¿²0
+y
+java:S1450‡"VRemove the "jLabel3" field and declare it as a local variable in the relevant methods.(Îä€øÿÿÿÿ8ø·¿²0
+t
+java:S1450ˆ"VRemove the "jLabel4" field and declare it as a local variable in the relevant methods.(«¢•ã8ø·¿²0
+t
+java:S1450‰"VRemove the "jLabel5" field and declare it as a local variable in the relevant methods.(ó Ù®8ø·¿²0
+H
+java:S1172®"*Remove this unused method parameter "evt".(´ÇŸ£8›ø·¿²0
+M
+java:S1172İ"*Remove this unused method parameter "evt".(ÚÍÄÒúÿÿÿÿ8ø·¿²0
+G
+java:S1172æ"*Remove this unused method parameter "evt".(øß‡^8ø·¿²0
+M
+java:S1172ø"*Remove this unused method parameter "evt".(Ï±”êûÿÿÿÿ8Ÿø·¿²0
+P
+java:S1611§"2Remove the parentheses around the "line" parameter(ÎåáŒ8¤ø·¿²0
+J
+java:S1602§",Remove useless curly braces around statement(ÎåáŒ8¥ø·¿²0

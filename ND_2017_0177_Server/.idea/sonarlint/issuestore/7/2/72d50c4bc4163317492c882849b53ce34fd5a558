@@ -1,0 +1,19 @@
+
+J
+java:S1604D"(Make this anonymous inner class a lambda(Ë§¶áşÿÿÿÿ8ÕÉ ¸²0
+w
+java:S1450£"[Remove the "btnConfigure" field and declare it as a local variable in the relevant methods.(¡£ïÊüÿÿÿÿ
+r
+java:S1450¤"VRemove the "jLabel1" field and declare it as a local variable in the relevant methods.(°ãÉ¸ÿÿÿÿÿ
+r
+java:S1450¥"VRemove the "jLabel2" field and declare it as a local variable in the relevant methods.(™úòˆüÿÿÿÿ
+r
+java:S1450¦"VRemove the "jLabel3" field and declare it as a local variable in the relevant methods.(Îä€øÿÿÿÿ
+m
+java:S1450§"VRemove the "jLabel4" field and declare it as a local variable in the relevant methods.(«¢•ã
+m
+java:S1450¨"VRemove the "jLabel5" field and declare it as a local variable in the relevant methods.(ó Ù®
+M
+java:S1172…"*Remove this unused method parameter "evt".(¶ÒºÁùÿÿÿÿ8†Ê ¸²0
+\
+java:S2147Â"ECombine this catch with the one at line 192, which has the same body.(Ãôş•

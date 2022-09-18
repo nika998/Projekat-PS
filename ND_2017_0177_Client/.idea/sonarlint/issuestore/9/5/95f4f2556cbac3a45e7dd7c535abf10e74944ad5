@@ -1,0 +1,53 @@
+
+X
+java:S1141®"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8óé—¿²0
+X
+java:S1141¶"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8óé—¿²0
+E
+java:S1604V"(Make this anonymous inner class a lambda(ÚöÇÑ8Ûù·¿²0
+D
+java:S1604|"(Make this anonymous inner class a lambda(ºúÓ8Ûù·¿²0
+F
+java:S1604£"(Make this anonymous inner class a lambda(ü¯®8Ûù·¿²0
+F
+java:S1604á"(Make this anonymous inner class a lambda(ßÀû¦8Ûù·¿²0
+F
+java:S1604è"(Make this anonymous inner class a lambda(Ñ…‹8Ûù·¿²0
+K
+java:S1604Œ"(Make this anonymous inner class a lambda(íìŸüÿÿÿÿ8ôé—¿²0
+z
+java:S1450Ó"WRemove the "btnApply" field and declare it as a local variable in the relevant methods.(Ùéƒûÿÿÿÿ8ú·¿²0
+v
+java:S1450Ô"XRemove the "btnCancel" field and declare it as a local variable in the relevant methods.(ñøÉ»8ú·¿²0
+y
+java:S1450Ù"VRemove the "jLabel1" field and declare it as a local variable in the relevant methods.(°ãÉ¸ÿÿÿÿÿ8ú·¿²0
+y
+java:S1450Ú"VRemove the "jLabel2" field and declare it as a local variable in the relevant methods.(™úòˆüÿÿÿÿ8‚ú·¿²0
+y
+java:S1450Û"VRemove the "jLabel3" field and declare it as a local variable in the relevant methods.(Îä€øÿÿÿÿ8‚ú·¿²0
+t
+java:S1450Ü"VRemove the "jLabel4" field and declare it as a local variable in the relevant methods.(«¢•ã8‚ú·¿²0
+t
+java:S1450İ"VRemove the "jLabel5" field and declare it as a local variable in the relevant methods.(ó Ù®8‚ú·¿²0
+y
+java:S1450Ş"VRemove the "jPanel1" field and declare it as a local variable in the relevant methods.(´œ½ÿÿÿÿÿ8‚ú·¿²0
+y
+java:S1450ß"VRemove the "jPanel4" field and declare it as a local variable in the relevant methods.(§É†¬şÿÿÿÿ8‚ú·¿²0
+~
+java:S1450à"[Remove the "jScrollPane1" field and declare it as a local variable in the relevant methods.(¤á×ÿÿÿÿÿ8ƒú·¿²0
+y
+java:S1450á"VRemove the "pnlDate" field and declare it as a local variable in the relevant methods.(¿Ç–Ÿÿÿÿÿÿ8ƒú·¿²0
+u
+java:S1450â"WRemove the "pnlLines" field and declare it as a local variable in the relevant methods.(§Ñ’Ş8ƒú·¿²0
+G
+java:S1172«"*Remove this unused method parameter "evt".(¨ùˆv8˜ú·¿²0
+H
+java:S1172¾"*Remove this unused method parameter "evt".(âœŞ8šú·¿²0
+M
+java:S1172Â"*Remove this unused method parameter "evt".(Ï±”êûÿÿÿÿ8šú·¿²0
+H
+java:S1172È"*Remove this unused method parameter "evt".(©ÀÆ¦8›ú·¿²0
+U
+java:S1135É"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ8›ú·¿²0
+H
+java:S1172Ì"*Remove this unused method parameter "evt".(ÙÈÕ8œú·¿²0

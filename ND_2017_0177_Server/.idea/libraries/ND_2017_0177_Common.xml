@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="ND_2017_0177_Common">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../ND_2017_0177_Common" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../ND_2017_0177_Common/src" />
+    </SOURCES>
+  </library>
+</component>

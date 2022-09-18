@@ -1,0 +1,49 @@
+
+C
+java:S1604B"(Make this anonymous inner class a lambda(ü¤‘ßÿÿÿÿÿ
+>
+java:S1604S"(Make this anonymous inner class a lambda(Ä¢»½
+C
+java:S1604["(Make this anonymous inner class a lambda(Á‡Í»ıÿÿÿÿ
+C
+java:S1604g"(Make this anonymous inner class a lambda(Îîşßøÿÿÿÿ
+C
+java:S1604o"(Make this anonymous inner class a lambda(ÍŒ©Ôşÿÿÿÿ
+t
+java:S1450Í"XRemove the "btnLogout" field and declare it as a local variable in the relevant methods.(óÀ¥†ùÿÿÿÿ
+r
+java:S1450Î"VRemove the "jLabel1" field and declare it as a local variable in the relevant methods.(°ãÉ¸ÿÿÿÿÿ
+r
+java:S1450Ï"VRemove the "jLabel2" field and declare it as a local variable in the relevant methods.(™úòˆüÿÿÿÿ
+r
+java:S1450Ğ"VRemove the "jLabel3" field and declare it as a local variable in the relevant methods.(Îä€øÿÿÿÿ
+m
+java:S1450Ñ"VRemove the "jLabel4" field and declare it as a local variable in the relevant methods.(«¢•ã
+m
+java:S1450Ò"VRemove the "jLabel5" field and declare it as a local variable in the relevant methods.(ó Ù®
+t
+java:S1450Ó"XRemove the "jMenuBar1" field and declare it as a local variable in the relevant methods.(úıÁ›ÿÿÿÿÿ
+o
+java:S1450Ô"YRemove the "jMenuItem1" field and declare it as a local variable in the relevant methods.(Éíå4
+q
+java:S1450Ù"ZRemove the "miAddFlight" field and declare it as a local variable in the relevant methods.(Ş†‹ 
+s
+java:S1450Ú"]Remove the "miAddPassenger" field and declare it as a local variable in the relevant methods.(™Îà
+t
+java:S1450Û"^Remove the "miSearchFlights" field and declare it as a local variable in the relevant methods.(ƒ€óc
+|
+java:S1450Ü"`Remove the "miSearchPassenger" field and declare it as a local variable in the relevant methods.(¨ßïœıÿÿÿÿ
+s
+java:S1450İ"WRemove the "mnFlight" field and declare it as a local variable in the relevant methods.(Íó¢©üÿÿÿÿ
+q
+java:S1450Ş"ZRemove the "mnPassenger" field and declare it as a local variable in the relevant methods.(²àı
+A
+java:S1172´"*Remove this unused method parameter "evt".(óıÎ°
+F
+java:S1172¸"*Remove this unused method parameter "evt".(·œúÿÿÿÿ
+A
+java:S1172¼"*Remove this unused method parameter "evt".(ı„§è
+A
+java:S1172À"*Remove this unused method parameter "evt".(æğ†¹
+A
+java:S1172Ä"*Remove this unused method parameter "evt".(ç¯ÏÖ

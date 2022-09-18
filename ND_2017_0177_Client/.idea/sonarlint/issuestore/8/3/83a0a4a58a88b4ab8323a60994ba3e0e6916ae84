@@ -1,0 +1,35 @@
+
+D
+java:S1604a"(Make this anonymous inner class a lambda(ºúÓ8Üø·¿²0
+F
+java:S1604"(Make this anonymous inner class a lambda(š±İ°8Üø·¿²0
+F
+java:S1604¥"(Make this anonymous inner class a lambda(ßÀû¦8Üø·¿²0
+v
+java:S1450ÿ"XRemove the "btnCancel" field and declare it as a local variable in the relevant methods.(ñøÉ»8†ù·¿²0
+~
+java:S1450€"`Remove the "btnSaveAttendance" field and declare it as a local variable in the relevant methods.(ÿ„çÃ8†ù·¿²0
+y
+java:S1450ƒ"VRemove the "jLabel1" field and declare it as a local variable in the relevant methods.(°ãÉ¸ÿÿÿÿÿ8†ù·¿²0
+y
+java:S1450„"VRemove the "jLabel2" field and declare it as a local variable in the relevant methods.(™úòˆüÿÿÿÿ8†ù·¿²0
+t
+java:S1450…"VRemove the "jLabel4" field and declare it as a local variable in the relevant methods.(«¢•ã8†ù·¿²0
+t
+java:S1450†"VRemove the "jLabel5" field and declare it as a local variable in the relevant methods.(ó Ù®8‡ù·¿²0
+y
+java:S1450‡"VRemove the "jPanel1" field and declare it as a local variable in the relevant methods.(´œ½ÿÿÿÿÿ8‡ù·¿²0
+H
+java:S1172É"*Remove this unused method parameter "evt".(©ÀÆ¦8”ù·¿²0
+M
+java:S1172Í"*Remove this unused method parameter "evt".(ÜäõÇüÿÿÿÿ8•ù·¿²0
+M
+java:S1172÷"*Remove this unused method parameter "evt".(Ï±”êûÿÿÿÿ8—ù·¿²0
+P
+java:S1611˜"2Remove the parentheses around the "line" parameter(ÎåáŒ8™ù·¿²0
+J
+java:S1602˜",Remove useless curly braces around statement(ÎåáŒ8™ù·¿²0
+W
+java:S1611±"4Remove the parentheses around the "flight" parameter(è–¨Àüÿÿÿÿ8œù·¿²0
+O
+java:S1602±",Remove useless curly braces around statement(è–¨Àüÿÿÿÿ8œù·¿²0

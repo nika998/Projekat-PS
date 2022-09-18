@@ -1,0 +1,35 @@
+
+J
+java:S1604x"(Make this anonymous inner class a lambda(É¯Ó¥üÿÿÿÿ8½û·¿²0
+E
+java:S1604"(Make this anonymous inner class a lambda(ßÀû¦8½û·¿²0
+d
+java:S1226ı"FIntroduce a new variable instead of reusing the parameter "startTime".(íÁ†8µı¾²0
+b
+java:S1226„"DIntroduce a new variable instead of reusing the parameter "endTime".(©øıõ8µı¾²0
+Z
+java:S2589­"7Remove this expression which always evaluates to "true"(ÜÚ÷‹üÿÿÿÿ8Íû·¿²0
+v
+java:S1450Ø"XRemove the "btnCancel" field and declare it as a local variable in the relevant methods.(ñøÉ»8Ñû·¿²0
+z
+java:S1450Ù"\Remove the "btnSaveFlight" field and declare it as a local variable in the relevant methods.(‹›8Ñû·¿²0
+y
+java:S1450Û"VRemove the "jLabel1" field and declare it as a local variable in the relevant methods.(°ãÉ¸ÿÿÿÿÿ8Ñû·¿²0
+y
+java:S1450Ü"VRemove the "jLabel2" field and declare it as a local variable in the relevant methods.(™úòˆüÿÿÿÿ8Òû·¿²0
+y
+java:S1450İ"VRemove the "jLabel3" field and declare it as a local variable in the relevant methods.(Îä€øÿÿÿÿ8Òû·¿²0
+t
+java:S1450Ş"VRemove the "jLabel4" field and declare it as a local variable in the relevant methods.(«¢•ã8Òû·¿²0
+y
+java:S1450ß"VRemove the "jPanel1" field and declare it as a local variable in the relevant methods.(´œ½ÿÿÿÿÿ8Òû·¿²0
+v
+java:S1450"TRemove the "lines" field and declare it as a local variable in the relevant methods.(ºîæ¶üÿÿÿÿ8Òû·¿²0
+M
+java:S1172£"*Remove this unused method parameter "evt".(¾üŒ¥ÿÿÿÿÿ8ßû·¿²0
+M
+java:S1172Ğ"*Remove this unused method parameter "evt".(Ï±”êûÿÿÿÿ8áû·¿²0
+W
+java:S1611ñ"4Remove the parentheses around the "linija" parameter(Ü·üÖùÿÿÿÿ8ãû·¿²0
+O
+java:S1602ñ",Remove useless curly braces around statement(Ü·üÖùÿÿÿÿ8ãû·¿²0

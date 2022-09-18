@@ -1,0 +1,9 @@
+#
+#Sun Sep 04 19:19:49 CEST 2022
+address=localhost
+user=root
+port=3306
+password=
+url=jdbc\:mysql\://localhost\:3306/ps_projekat
+database=ps_projekat
+driver=com.mysql.jdbc.Driver
