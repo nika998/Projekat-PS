@@ -233,7 +233,7 @@ public class IzmeniLetForm extends javax.swing.JDialog {
         txtEndTime.setEditable(true);
         txtStartTime.setEditable(true);
         txtCompany.setEditable(true);
-        cbLines.setEnabled(true);
+        //cbLines.setEnabled(true);
     }//GEN-LAST:event_btnEnableEditingActionPerformed
 
     private void btnDeleteActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnDeleteActionPerformed
